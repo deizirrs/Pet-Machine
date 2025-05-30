@@ -1,7 +1,7 @@
 package deizianeRodrigues.exercicio.petMachine;
 
 public class Pet {
-	
+
 	private final String name;
 	private boolean clean;
 
